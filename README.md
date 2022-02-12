@@ -1,5 +1,5 @@
 Hi, I’m Sean.
-I’m interested in web web develpment and crypto currency.
+I’m interested in web develpment and crypto currency.
 I’m currently learning many things.
 I’m looking for paid projects to work on.
 
