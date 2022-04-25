@@ -1,7 +1,4 @@
-Hi, I’m Sean.
-I’m interested in web development and crypto currency.
-I’m currently learning many things.
-I’m looking for paid projects to work on.
+Welcome.
 
 Reach me by emailing admin@livenewsnow.org
 
