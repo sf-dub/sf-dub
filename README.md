@@ -1,6 +1,6 @@
 Welcome.
 
-Reach me by emailing admin@livenewsnow.org
+Email: contact@seanfarnon.com
 
 <!---
 sf-dub/sf-dub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
